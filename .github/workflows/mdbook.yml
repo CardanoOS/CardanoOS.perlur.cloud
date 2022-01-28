@@ -5,6 +5,7 @@ on:
 
 jobs:
   upload:
+    name: Update documentation
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
