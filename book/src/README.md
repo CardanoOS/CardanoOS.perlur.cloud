@@ -23,7 +23,9 @@ Cardano OS is a Linux based operating system that aims to integrate The Financia
 ## What are other streams?
 
 ### Open Source Hardware
-Czech company called [CZ.NIC](https://www.nic.cz/), the maintainer of ahe `.cz` top-level domain name develops open-source series of routers called [Turris](https://www.turris.com/en/), currently these devices run openWRT which is too light-weight, however during 2022 a new version of the flag ship product, [Turris Omnia](about-hardware/Turris-Omnia.md) should be released with sufficient horse power become the ultimate home-appliance for Cardano community members.
+Czech company called [CZ.NIC](https://www.nic.cz/), the maintainer of the `.cz` top-level domain name develops open-source series of routers called [Turris](https://www.turris.com/en/), currently these devices run custome version of [OpenWrt](https://openwrt.org/) called [TurrisOS](https://www.turris.com/en/turris-os/) which is too light-weight.
+
+However during 2022 a new version of their flag ship product, [Turris Omnia](about-hardware/Turris-Omnia.md) should be released with sufficient horse power become the ultimate home-appliance for Cardano community members.
 
 #### Cardano Home Router
 
