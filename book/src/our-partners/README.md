@@ -29,6 +29,16 @@
 <p style="clear: both;" />
 
 ### [projectNEWM](https://projectnewm.io/)
+<div style="display: flex; align-items: center;">
+    <img
+        style="width: 30%; float: left; padding-right: 1em;"
+        src="assets/projectNEWM.png"
+        alt="projectNEWM Logo"
+    />
+
+[projectNEWM]((https://projectnewm.io/)) is a decentralized ecosystem where you can listen to your favorite music and also earn money if you choose to partake in the NEWM marketplace. Imagine a fair stock market of music, where artists can sell partial music rights and fans can invest and reap the rewards of the music they love; where everyone benefits and receives tokenized royalties from streams directly to their wallet. That’s what we’re doing, and we are pioneers.
+</div>
+<p style="clear: both;" />
 
 ### ADOSIA
 
