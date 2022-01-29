@@ -1,0 +1,1 @@
+# About openSUSE Linux Distribution
