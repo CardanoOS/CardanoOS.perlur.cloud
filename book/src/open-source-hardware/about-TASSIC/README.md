@@ -5,9 +5,9 @@ Developed by a Czech company [Tropic Square](https://tropicsquare.com/), **TASSI
 ## TASSIC
 
 <div style="display: flex; align-items: top;">
-    <img 
-        style="width: 75%; float: left; padding-right: 1em;" 
-        src="assets/TASSIC_block_diagram.png" 
+    <img
+        style="width: 75%; float: left; padding-right: 1em;"
+        src="assets/TASSIC_block_diagram.png"
         alt="TASSIC Block diagram"
     />
     <div>
