@@ -22,27 +22,36 @@ In July 2018, [Micro Focus International](https://en.wikipedia.org/wiki/Micro_Fo
 On 8 July 2020, SUSE announced its definitive agreement to acquire [Rancher Labs](https://rancher.com/), which provides a Kubernetes management platform. The acquisition closed on 1 December 2020, at which time Rancher CEO and cofounder Sheng Liang became SUSE's President of Engineering and Innovation.
 
 ## SUSE Linux Enterprise vs. openSUSE
+<div style="display: flex; justify-content: space-between; align-items: middle;">
+    <div style="width: 45%;">
 
 ### [openSUSE Leap](openSUSE-Leap.md)
-<div style="display: flex; align-items: top;">
+<p style="text-align: center;">
     <img
-        style="width: 75%; float: left; padding-right: 1em; filter: brightness(0) invert(1);"
+        style="width: 75%; filter: brightness(0) invert(1);"
         src="assets/openSUSE-Leap-color-square.svg"
         alt="openSUSE Leap Logo"
     />
-    <div>
-    </div>
-</div>
+</p>
 
+**openSUSE Leap** uses source and newly also binaries from SUSE Linux Enterprise (SLE), which gives Leap a level of stability unmatched by other Linux distributions, and combines that with community developments to give users, developers and sysadmins the best stable Linux experience available.
+
+Contributor and enterprise efforts for Leap bridge a gap between matured packages and newer packages found in other distribution [**openSUSE Tumbleweed**](openSUSE-Tumbleweed.md).
+    </div>
+    <div style="width: 45%;">
 
 ### [openSUSE Tumbleweed](openSUSE-Tumbleweed.md)
-<div style="display: flex; align-items: top;">
+<p style="text-align: center;">
     <img
-        style="width: 75%; float: left; padding-right: 1em; filter: brightness(0) invert(1);"
+        style="width: 75%; filter: brightness(0) invert(1);"
         src="assets/openSUSE-Tumbleweed-color-square.svg"
         alt="openSUSE Tumbleweed Logo"
     />
-    <div>
+</p>
+
+**openSUSE Tumbleweed** uses source and newly also binaries from SUSE Linux Enterprise (SLE), which gives Leap a level of stability unmatched by other Linux distributions, and combines that with community developments to give users, developers and sysadmins the best stable Linux experience available.
+
+Contributor and enterprise efforts for Leap bridge a gap between matured packages and newer packages found in other distribution [**openSUSE Tumbleweed**](openSUSE-Tumbleweed.md).
     </div>
 </div>
 
