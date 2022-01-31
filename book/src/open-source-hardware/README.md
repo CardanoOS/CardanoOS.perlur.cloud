@@ -7,6 +7,8 @@ RISC-V is a free and open ISA enabling a new era of processor innovation through
 - [SiFive](https://www.sifive.com/) — As the pioneers who introduced RISC-V to the world, SiFive is transforming the future of compute and defining what comes next.
     - [HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched)
 
-## Turris Omnia & MOX
+## [Turris Omnia & MOX](about-Turris/)
 
-## 
+## [Trezor Model T](about-Trezor/)
+
+## [Tropic Square TASSIC](about-TASSIC/)
