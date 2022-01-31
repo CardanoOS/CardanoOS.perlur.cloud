@@ -14,6 +14,9 @@ trim_trailing_whitespace = true
 trim_trailing_whitespace = false
 indent_size = 2
 
+[*.tgn]
+insert_final_newline = false
+
 [README.md]
 end_of_line = lf
 charset = utf-8
