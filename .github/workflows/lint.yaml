@@ -1,0 +1,17 @@
+on:
+  push:
+    branches:
+     - '**'
+
+name: Lint Files
+
+jobs:
+  lint-editorconfig:
+    name: Lint Files against .editorconfig
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v2
+
+      - name: Check EditorConfig Compliance
+        uses: editorconfig-checker/action-editorconfig-checker@v1
