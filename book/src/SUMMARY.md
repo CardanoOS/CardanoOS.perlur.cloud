@@ -8,7 +8,7 @@
         - [openSUSE Tumbleweed](about-openSUSE/openSUSE-Tumbleweed.md)
             - [openSUSE MicroOS](about-openSUSE/openSUSE-MicroOS.md)
                 - [openSUSE Kubic](about-openSUSE/openSUSE-Kubic.md)
-            - [openSUSE Factory](about-openSUSE/openSUSE-Factory.md)
+        - [openSUSE Factory](about-openSUSE/openSUSE-Factory.md)
     - [Open Source Hardware](./open-source-hardware/README.md)
         - [About Turris](./open-source-hardware/about-Turris/README.md)
         - [About Trezor](./open-source-hardware/about-Trezor/README.md)

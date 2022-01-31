@@ -7,6 +7,19 @@ Combining Turris Omnia 2022 with openSUSE MicroOS will enable Cardano users to h
 - Cardano Node Relay
 - Distributed Storage
 
+## Turris Omnia 2020 HW Specifications
+
+| Component Type   | HW Component                            | Notes |
+|------------------|-----------------------------------------|-------|
+| CPU              | 1.6 GHz dual core ARM                   |       |
+| Memory           | 2 GB DDR3 RAM                           |       |
+| Storage          | 8 GB flash                              |       |
+| WAN port         | 1x 10/100/1000 Mbps (RJ-45)             |       |
+| LAN switch ports | 5x 10/100/1000 Mbps (RJ-45)             |       |
+| USB ports        | 2 x USB3.0 / A connector                |       |
+| Wi-Fi (mPCIe)    | 3×3 MIMO 802.11ac, 2×2 MIMO 802.11b/g/n |       |
+| Expansion bus    | mSATA / mPCIe                           |       |
+
 ## Turris Omnia 2022 HW Specifications
 
 | Component Type   | HW Component                                        | Notes                                                                        |
