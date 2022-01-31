@@ -4,9 +4,9 @@
 
 ### [AIKIT Digital](https://www.aikitdigital.com/)
 <div style="display: flex; align-items: center;">
-    <img 
-        style="width: 20%; float: left; padding-right: 1em;" 
-        src="assets/AIKIT-digital-logo-white.png" 
+    <img
+        style="width: 20%; float: left; padding-right: 1em;"
+        src="assets/AIKIT-digital-logo-white.png"
         alt="AIKIT Digital Logo"
     />
 
@@ -43,6 +43,8 @@
 [projectNEWM]((https://projectnewm.io/)) is a decentralized ecosystem where you can listen to your favorite music and also earn money if you choose to partake in the NEWM marketplace. Imagine a fair stock market of music, where artists can sell partial music rights and fans can invest and reap the rewards of the music they love; where everyone benefits and receives tokenized royalties from streams directly to their wallet. That’s what we’re doing, and we are pioneers.
 </div>
 <p style="clear: both;" />
+
+
 
 ### ADOSIA
 
