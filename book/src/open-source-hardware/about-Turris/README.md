@@ -5,7 +5,7 @@ Czech company called [CZ.NIC](https://www.nic.cz/), the maintainer of the `.cz` 
 Combining Turris Omnia 2022 with openSUSE MicroOS will enable Cardano users to have a great Internet gateway that separates their home network from the dangers of the Internet, while also supporting Cardano network and applications running on it. Possible use-cases include:
 
 - Cardano Node Relay
-- Distributed Storage 
+- Distributed Storage
 
 ## Turris Omnia 2022 HW Specifications
 
