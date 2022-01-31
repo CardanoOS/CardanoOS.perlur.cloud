@@ -1,6 +1,6 @@
 # About Turris
 
-Czech company called [CZ.NIC](https://www.nic.cz/), the maintainer of the `.cz` top-level domain name develops open-source series of routers called [Turris](https://www.turris.com/en/), currently these devices run TurrisOS derived from openWRT which is too light-weight, however during late 2022 a new version of the flag ship product, [Turris Omnia](./Turris-Omnia-2022.md) should be released with sufficient horse power become the ultimate home-appliance for Cardano community members.
+Czech company called [CZ.NIC](https://www.nic.cz/), the maintainer of the `.cz` top-level domain name develops open-source series of routers called [Turris](https://www.turris.com/en/), currently these devices run TurrisOS derived from openWRT which is too light-weight, however during late 2022 a new version of the flag ship product, [Turris Omnia](./Turris-Omnia-2022.md) should be released with sufficient horse power to become the ultimate home-appliance for [Cardano community members](../../about-cardano/).
 
 Combining Turris Omnia 2022 with openSUSE MicroOS will enable Cardano users to have a great Internet gateway that separates their home network from the dangers of the Internet, while also supporting Cardano network and applications running on it. Possible use-cases include:
 
