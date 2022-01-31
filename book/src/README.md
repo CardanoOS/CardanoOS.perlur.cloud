@@ -35,4 +35,4 @@ However during 2022 a new version of their flag ship product, [Turris Omnia](abo
 #### Open Source Secure Element
 Developed by a Czech company [Tropic Square](https://tropicsquare.com/), **TASSIC** is *The Transparent Authenticated Secure Storage Integrated Circuit*, basically an open source version of the secure element that Ledger is using.
 
-### Cardano 
+### Cardano
