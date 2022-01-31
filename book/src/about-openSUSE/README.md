@@ -25,7 +25,7 @@ On 8 July 2020, SUSE announced its definitive agreement to acquire [Rancher Labs
 <div style="display: flex; justify-content: space-between; align-items: middle;">
     <div style="width: 45%;">
 
-### [openSUSE Leap](openSUSE-Leap.md)
+## [openSUSE Leap](openSUSE-Leap.md)
 <p style="text-align: center;">
     <img
         style="width: 75%; filter: brightness(0) invert(1);"
@@ -40,7 +40,7 @@ Contributor and enterprise efforts for Leap bridge a gap between matured package
     </div>
     <div style="width: 45%;">
 
-### [openSUSE Tumbleweed](openSUSE-Tumbleweed.md)
+## [openSUSE Tumbleweed](openSUSE-Tumbleweed.md)
 <p style="text-align: center;">
     <img
         style="width: 75%; filter: brightness(0) invert(1);"
@@ -55,17 +55,37 @@ Contributor and enterprise efforts for Leap bridge a gap between matured package
     </div>
 </div>
 
-#### [openSUSE Factory](openSUSE-Factory.md)
-
-## [openSUSE Kubic](openSUSE-Kubic.md)
+<div style="display: flex; justify-content: space-between; align-items: middle;">
+    <div style="width: 45%;">
 
 ## [openSUSE MicroOS](openSUSE-MicroOS.md)
-<div style="display: flex; align-items: top;">
+<p style="text-align: center;">
     <img
-        style="width: 75%; float: left; padding-right: 1em; filter: brightness(0) invert(1);"
+        style="width: 75%; filter: brightness(0) invert(1);"
         src="assets/openSUSE-MicroOS-color-square.svg"
         alt="openSUSE MicroOS Logo"
     />
-    <div>
+</p>
+
+**openSUSE Leap** uses source and newly also binaries from SUSE Linux Enterprise (SLE), which gives Leap a level of stability unmatched by other Linux distributions, and combines that with community developments to give users, developers and sysadmins the best stable Linux experience available.
+
+Contributor and enterprise efforts for Leap bridge a gap between matured packages and newer packages found in other distribution [**openSUSE Tumbleweed**](openSUSE-Tumbleweed.md).
+    </div>
+    <div style="width: 45%;">
+
+## [openSUSE Kubic](openSUSE-Kubic.md)
+<p style="text-align: center;">
+    <img
+        style="width: 75%; filter: brightness(0) invert(1);"
+        src="assets/openSUSE-Kubic-color-square.svg"
+        alt="openSUSE Kubic Logo"
+    />
+</p>
+
+**openSUSE Tumbleweed** uses source and newly also binaries from SUSE Linux Enterprise (SLE), which gives Leap a level of stability unmatched by other Linux distributions, and combines that with community developments to give users, developers and sysadmins the best stable Linux experience available.
+
+Contributor and enterprise efforts for Leap bridge a gap between matured packages and newer packages found in other distribution [**openSUSE Tumbleweed**](openSUSE-Tumbleweed.md).
     </div>
 </div>
+
+## [openSUSE Factory](openSUSE-Factory.md)
