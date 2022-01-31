@@ -19,6 +19,7 @@ Cardano OS is a Linux based operating system that aims to integrate The Financia
     - [Decentralized Consortium Fund](https://thedcf.io/)
 
 ## About openSUSE
+The [openSUSE project](about-openSUSE/README.md) is a worldwide effort that promotes the use of Linux everywhere. openSUSE creates one of the world's best Linux distributions, as well as a variety of tools, such as OBS, OpenQA, Kiwi, YaST, OSEM, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community.
 
 ## What are other streams?
 
@@ -29,6 +30,9 @@ Czech company called [CZ.NIC](https://www.nic.cz/), the maintainer of the `.cz` 
 
 However during 2022 a new version of their flag ship product, [Turris Omnia](about-hardware/Turris-Omnia.md) should be released with sufficient horse power become the ultimate home-appliance for Cardano community members if the operating system is replaced with custom version of [openSUSE MicroOS](about-openSUSE/openSUSE-MicroOS.md) so that the OS can be automatically upgraded.
 
+#### Trezor Hardware Wallet
+
 #### Open Source Secure Element
+Developed by a Czech company [Tropic Square](https://tropicsquare.com/), **TASSIC** is *The Transparent Authenticated Secure Storage Integrated Circuit*, basically an open source version of the secure element that Ledger is using.
 
 ### Cardano 

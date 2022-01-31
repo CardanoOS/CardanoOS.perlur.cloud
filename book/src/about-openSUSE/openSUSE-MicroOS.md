@@ -1,10 +1,10 @@
 # openSUSE MicroOS
 
 <div style="display: flex; align-items: top;">
-    <img 
-        style="width: 75%; float: left; padding-right: 1em;" 
-        src="assets/openSUSE-MicroOS-light-inline.svg" 
-        alt="TASSIC Block diagram"
+    <img
+        style="width: 75%; float: left; padding-right: 1em;"
+        src="assets/openSUSE-MicroOS-light-horizontal.svg"
+        alt="openSUSE MicroOS Logo"
     />
     <div>
 
