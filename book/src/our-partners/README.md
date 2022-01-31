@@ -14,13 +14,17 @@
 </div>
 <p style="clear: both;" />
 
+### [SatoshiLabs](https://satoshilabs.com/)
+
+### [Tropic Square](https://tropicsquare.com/)
+
 ## Projects building on [Cardano](/about-cardano/)
 
 ### [Liqwid Finance](https://liqwid.finance/)
 <div style="display: flex; align-items: center;">
-    <img 
-        style="width: 30%; float: left; padding-right: 1em;" 
-        src="assets/liqwid.svg" 
+    <img
+        style="width: 30%; float: left; padding-right: 1em;"
+        src="assets/liqwid.svg"
         alt="Liqwid Finance Logo"
     />
 
@@ -48,4 +52,13 @@
 
 
 ### [Storj](https://www.storj.io/)
-Storj DCS is the world’s first open-source, decentralized cloud storage layer that’s private by design and secure by default - enabling developers to build in the best data protection and privacy into their applications as possible. The zero trust architecture, multi-region high availability, default encryption and edge-based access controls minimize risk and give only you, or those you grant permission to, access to your files. The result is that you take back full ownership and control of your data. 
+<div style="display: flex; align-items: center;">
+    <img
+        style="width: 30%; float: left; padding-right: 1em; filter: brightness(0) invert(1);"
+        src="assets/Storj-color-horizontal.svg"
+        alt="Storj Logo"
+    />
+
+[Storj DCS](https://www.storj.io/) is the world’s first open-source, decentralized cloud storage layer that’s private by design and secure by default - enabling developers to build in the best data protection and privacy into their applications as possible. The zero trust architecture, multi-region high availability, default encryption and edge-based access controls minimize risk and give only you, or those you grant permission to, access to your files. The result is that you take back full ownership and control of your data.
+</div>
+<p style="clear: both;" />
