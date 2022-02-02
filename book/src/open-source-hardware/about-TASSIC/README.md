@@ -21,6 +21,6 @@ Check out [TASSIC flyer](assets/TASSIC_TropicSquare.pdf) to learn more! [Subscri
 </div>
 <p style="clear: both; padding-top: 15px;" />
 
-**TASSIC** will be available in several form factors, including a form factor that will be easy to [plug-in to your Trezor Model T](../about-Trezor/index.html#trezor-model-t). In addition to that, **TASSIC** can be added to [Turris Omnia 2022](src/open-source-hardware/about-Turris/Turris-Omnia-2022.md), which we can call Cardano edition when it will be powered by openSUSE MicroOS with transactional updates which will replace [OpenWRT based Turris OS](https://www.turris.com/en/turris-os/).
+**TASSIC** will be available in several form factors, including a form factor that will be easy to [plug-in to your Trezor Model T](../about-Trezor/#trezor-model-t). In addition to that, **TASSIC** can be added to [Turris Omnia 2022](../about-Turris/Turris-Omnia-2022.md), which we can call Cardano edition when it will be powered by openSUSE MicroOS with transactional updates which will replace [OpenWRT based Turris OS](https://www.turris.com/en/turris-os/).
 
 Previous versions of Turris Omnia have already been running [openSUSE](../../about-openSUSE/) already, including [Turris MOX](https://www.turris.com/en/mox/overview/) which is more lego-like version of [Turris](../about-Turris/).

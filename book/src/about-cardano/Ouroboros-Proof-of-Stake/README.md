@@ -4,7 +4,7 @@
 
 ## Ouroboros Proof of Stake Research Papers
 
-- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol ](https://eprint.iacr.org/2016/889")
+- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol ](https://eprint.iacr.org/2016/889)
 - [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://eprint.iacr.org/2017/573)
 - [Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability](https://eprint.iacr.org/2018/378)
 - [Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake](https://eprint.iacr.org/2018/1132)

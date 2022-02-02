@@ -9,7 +9,7 @@
     />
     <div>
 
-SUSE is a German-based multinational open-source software company that develops and sells Linux products to business customers. Founded in 1992, it was the first company to market Linux for enterprise. It is the developer of SUSE Linux Enterprise and the primary sponsor of the community-supported openSUSE Project, which develops the openSUSE Linux distribution. While the [**openSUSE Tumbleweed**](openSUSE-Tumbleweed.md) variation is an upstream distribution for both the "Leap" variation and SUSE Linux Enterprise distribution, its branded "Leap" variation is part of a direct upgrade path to the enterprise version, which effectively makes [**openSUSE Leap**]((openSUSE-Leap.md)) a non-commercial version of its enterprise product.
+SUSE is a German-based multinational open-source software company that develops and sells Linux products to business customers. Founded in 1992, it was the first company to market Linux for enterprise. It is the developer of SUSE Linux Enterprise and the primary sponsor of the community-supported openSUSE Project, which develops the openSUSE Linux distribution. While the [**openSUSE Tumbleweed**](openSUSE-Tumbleweed.md) variation is an upstream distribution for both the "Leap" variation and SUSE Linux Enterprise distribution, its branded "Leap" variation is part of a direct upgrade path to the enterprise version, which effectively makes [**openSUSE Leap**](openSUSE-Leap.md) a non-commercial version of its enterprise product.
     </div>
 </div>
 <p style="clear: both;" />

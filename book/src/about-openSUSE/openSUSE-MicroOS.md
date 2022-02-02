@@ -8,7 +8,7 @@
     />
     <div>
 
-**openSUSE MicroOS** is a modern Linux operating system based on [openSUSE Tumbleweed](index.html#opensuse-tumbleweed) which also serves as base for [openSUSE Kubic](index.html#opensuse-kubic), a Container as a Service platform.
+**openSUSE MicroOS** is a modern Linux operating system based on [openSUSE Tumbleweed](./#opensuse-tumbleweed) which also serves as base for [openSUSE Kubic](./#opensuse-kubic), a Container as a Service platform.
     </div>
 </div>
 <p style="clear: both; padding-top: 15px;" />
