@@ -1,0 +1,53 @@
+
+/*
+/
+/ © 2022 PERLUR Group
+/ SPDX-License-Identifier: GPL-3.0-only OR LGPL-3.0-only
+/
+*/
+
+/* PERLUR Fonts */
+
+@font-face {
+    font-family: "Neo Sans Pro Light";
+    font-style: normal;
+    font-weight: light;
+    src: url(/.perlur-theme/fonts/Neo-Sans-Pro-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Neo Sans Pro";
+    font-style: normal;
+    font-weight: normal;
+    src: url(/.perlur-theme/fonts/Neo-Sans-Pro.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Neo Sans Pro Medium";
+    font-style: normal;
+    font-weight: medium;
+    src: url(/.perlur-theme/fonts/Neo-Sans-Pro-Medium.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Neo Sans Pro Bold";
+    font-style: normal;
+    font-weight: bold;
+    src: url(/.perlur-theme/fonts/Neo-Sans-Pro-Bold.ttf) format("truetype");
+}
+
+.neo-sans-pro-light {
+    font-family: "Neo Sans Pro Light";
+}
+
+.neo-sans-pro {
+    font-family: "Neo Sans Pro";
+}
+
+.neo-sans-pro-medium {
+    font-family: "Neo Sans Pro Medium";
+}
+
+.neo-sans-pro-bold {
+    font-family: "Neo Sans Pro Bold";
+}
