@@ -1,0 +1,47 @@
+#
+#  © 2022 PERLUR Group
+#  SPDX-License-Identifier: GPL-3.0-only OR LGPL-3.0-only
+#
+
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+
+jobs:
+  deploy:
+    name: Deploy mdBook
+    runs-on: ubuntu-20.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Read .env
+        id: mdbook-version
+        run: |
+          cd docs/
+          . ./.env
+          echo "::set-output name=MDBOOK_VERSION::${MDBOOK_VERSION}"
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: '${{ steps.mdbook-version.outputs.MDBOOK_VERSION }}'
+      - uses: actions-rs/install@v0.1
+        with:
+          crate: mdbook-linkcheck
+          version: latest
+      - run: |
+          cd docs/
+          mdbook build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/master' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./docs/book
+          cname: CardanoOS.perlur.cloud

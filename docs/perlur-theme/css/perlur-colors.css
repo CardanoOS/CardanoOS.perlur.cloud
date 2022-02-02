@@ -1,0 +1,56 @@
+/*
+/
+/ © 2022 PERLUR Group
+/ SPDX-License-Identifier: GPL-3.0-only OR LGPL-3.0-only
+/
+*/
+
+/* PERLUR Colors */
+
+.perlur-green {
+    color: #2fb296;
+}
+
+.perlur-green-bg {
+    background-color: #2fb296;
+}
+
+.perlur-blue {
+    color: #009ece;
+}
+
+.perlur-blue-bg {
+    background-color: #009ece;
+}
+
+.perlur-purple {
+    color: #5b398e;
+}
+
+.perlur-purple-bg {
+    background-color: #5b398e;
+}
+
+.perlur-orange {
+    color: #eb5b25;
+}
+
+.perlur-orange-bg {
+    background-color: #eb5b25;
+}
+
+.perlur-gray {
+    color: #878787;
+}
+
+.perlur-gray-bg {
+    background-color: #878787;
+}
+
+.content .header:link, .content .header:visited {
+    color: #2fb296;
+}
+
+.content p strong {
+    color: #5b398e;
+}
