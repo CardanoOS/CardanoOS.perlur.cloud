@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Check EditorConfig Compliance
-        uses: editorconfig-checker/action-editorconfig-checker@v1
+        uses: editorconfig-checker/action-editorconfig-checker@v2
